@@ -69,7 +69,7 @@
    <tr>
     <td>
       <a href="https://github.com/shatrudhan1512" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=shatrudhan1512&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true" alt="Shatrudhan Kumar' github stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=shatrudhan1512&show_icons=true&locale=en&theme=ayu-mirage&hide_border=true" alt="Shatrudhan Kumar' github stats">
       <a/>
     </td>
     <td>
