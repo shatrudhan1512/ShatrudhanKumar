@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate in **more backend projects**
 - 🤝 I’m looking for help to **enhance my skills**
 - 💬 Ask me about **Backend**
-- 📫 If you want to talk to me, email me at `shatrudhan1512@gmail.com`
+- 📫 If you want to talk to me feel free to email me at `shatrudhan1512@gmail.com`
 - 🙇‍♂️ Languages : `English` `Hindi`
 
 
