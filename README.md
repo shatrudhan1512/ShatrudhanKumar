@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shatrudhan Kumar</h1>
-<h3 align="center">A passionate Backend Developer from India</h3>
+<h3 align="center">A Passionate Backend Developer from India</h3>
 
 <img align="right" alt="Backend Developer" width="400" src= "https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shatrudhan1512&label=Profile%20views&color=0e75b6&style=flat" alt="shatrudhan1512" /> </p>
- 
-<!--  &nbsp; -->
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=About+me!+&#129321;)](https://git.io/typing-svg)
 
